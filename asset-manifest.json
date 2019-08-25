@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/patricianunes/property-address-management/static/js/main.96c7404a.chunk.js",
-    "main.js.map": "/patricianunes/property-address-management/static/js/main.96c7404a.chunk.js.map",
-    "runtime~main.js": "/patricianunes/property-address-management/static/js/runtime~main.0ba46c6c.js",
-    "runtime~main.js.map": "/patricianunes/property-address-management/static/js/runtime~main.0ba46c6c.js.map",
-    "static/js/2.1014466b.chunk.js": "/patricianunes/property-address-management/static/js/2.1014466b.chunk.js",
-    "static/js/2.1014466b.chunk.js.map": "/patricianunes/property-address-management/static/js/2.1014466b.chunk.js.map",
-    "index.html": "/patricianunes/property-address-management/index.html",
-    "precache-manifest.ec68bb11936981f1866c2d660ce15633.js": "/patricianunes/property-address-management/precache-manifest.ec68bb11936981f1866c2d660ce15633.js",
-    "service-worker.js": "/patricianunes/property-address-management/service-worker.js"
+    "main.js": "/property-address-management/static/js/main.416a9472.chunk.js",
+    "main.js.map": "/property-address-management/static/js/main.416a9472.chunk.js.map",
+    "runtime~main.js": "/property-address-management/static/js/runtime~main.e872b617.js",
+    "runtime~main.js.map": "/property-address-management/static/js/runtime~main.e872b617.js.map",
+    "static/js/2.1014466b.chunk.js": "/property-address-management/static/js/2.1014466b.chunk.js",
+    "static/js/2.1014466b.chunk.js.map": "/property-address-management/static/js/2.1014466b.chunk.js.map",
+    "index.html": "/property-address-management/index.html",
+    "precache-manifest.6c5a37e5294e0d0aed054444ad531cf6.js": "/property-address-management/precache-manifest.6c5a37e5294e0d0aed054444ad531cf6.js",
+    "service-worker.js": "/property-address-management/service-worker.js"
   }
 }
