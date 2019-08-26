@@ -26,7 +26,8 @@ function App() {
         street: "Wyndham Street",
         suburb: "Alexandria",
         state: 1,
-        postCode: 2015
+        postCode: 2015,
+        id: 1
       },
       {
         unitNumber: 2,
@@ -34,7 +35,8 @@ function App() {
         street: "Raglan Street",
         suburb: "Alexandria",
         state: 1,
-        postCode: 2016
+        postCode: 2016,
+        id: 2
       }
     ]
   });
